@@ -1,34 +1,15 @@
 Home Page
 =====
-
+Use the Home Page to navigate through the available SF modules
+home page_Production Orders
 .. Shofloor Operations:
 
 Production Orders 
 ------------
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+Use the Production Orders module to review and mark operation completion based on sequence lines.
 
 Non-Conformance Production
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Use Non-Conformance Production to review production non-conformance and take appropriate action.
