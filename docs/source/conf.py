@@ -31,6 +31,10 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 html_show_sourcelink = False # This removes the "View page source" link
+html_static_path = ['_static']
+html_css_files = [
+    'custom.css',
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
