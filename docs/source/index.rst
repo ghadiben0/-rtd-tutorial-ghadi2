@@ -15,8 +15,8 @@ Contents
    maxdepth: 2
    :caption: Contents
 
-   usage_Home Page
+   Home Page
 Use the Home Page to navigate through the available SF modules.
-usage_Production Orders
-usage_non-conformance Production
+      usage_Production Orders
+      usage_non-conformance Production
    API
