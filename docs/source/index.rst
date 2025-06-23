@@ -17,6 +17,6 @@ Contents
 
    usage_Home Page
 Use the Home Page to navigate through the available SF modules
-usage_Production Orders
-usage_non-conformance Production
+home page_Production Orders
+home page_non-conformance Production
    api
