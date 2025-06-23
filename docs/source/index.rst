@@ -16,5 +16,5 @@ Contents
    :maxdepth: 2
    :caption: Contents
 
-   usage
-   API
+   **usage**
+   api
