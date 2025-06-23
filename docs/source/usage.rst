@@ -1,9 +1,9 @@
 Usage
 =====
 
-.. _installation:
+.. Shofloor Operations:
 
-Production Orders interface
+Production Orders 
 ------------
 
 To use Lumache, first install it using pip:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Non-Conformance Products interface
+Non-Conformance Production
 ----------------
 
 To retrieve a list of random ingredients,
