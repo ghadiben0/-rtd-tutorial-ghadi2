@@ -1,5 +1,5 @@
-.ethical-content,
-.ethical-content * {
+.raised ethical-rtd ethical-dark-theme loaded,
+.raised ethical-rtd ethical-dark-theme loaded * {
     display: none !important;
     visibility: hidden !important;
     height: 0 !important;
