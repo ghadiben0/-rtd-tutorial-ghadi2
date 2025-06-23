@@ -19,4 +19,8 @@ Contents
 Use the Home Page to navigate through the available SF modules
 home page_Production Orders
 home page_non-conformance Production
-   api
+   API
+
+.. toctree::
+   maxdepth: 2
+   :caption: Contents
