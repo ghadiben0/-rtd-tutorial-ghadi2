@@ -14,7 +14,7 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Navigation
+   :caption: Contents
 
    usage
    API
