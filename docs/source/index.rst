@@ -5,18 +5,23 @@ Welcome to our Manufacturing Execution Help Hub!
 Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for further MES information.
 
 .. note:
+--------
 
    This documentation is confidential to Shopfloor manufacturers using the **MES** application.
 
 Contents
 --------
 
-.. toctree::
-   maxdepth: 2
-   :caption: Contents
 
-   Home Page
+.. toctree::
+   :maxdepth: 2
+
+  Home Page
+--------
+
 Use the Home Page to navigate through the available SF modules.
-      usage_Production Orders
-      usage_non-conformance Production
+
+   Production Orders
+   Non-Conformance Production
+
    API
