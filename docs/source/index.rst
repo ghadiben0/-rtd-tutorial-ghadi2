@@ -12,16 +12,8 @@ Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for f
 Contents
 --------
 
-
 .. toctree::
    :maxdepth: 2
-
-  Home Page
---------
-
-Use the Home Page to navigate through the available SF modules.
-
-   Production Orders
-   Non-Conformance Production
-
+  :caption: Navigation
+   usage
    API
