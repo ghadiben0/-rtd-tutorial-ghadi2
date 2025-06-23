@@ -12,6 +12,8 @@ Contents
 --------
 
 .. toctree::
+   maxdepth: 2
+   :caption: Contents
 
    usage_Home Page
 Use the Home Page to navigate through the available SF modules
