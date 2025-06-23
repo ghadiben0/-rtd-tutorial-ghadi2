@@ -13,8 +13,8 @@ Contents
 
 .. toctree::
 
-   Home Page
+   usage_Home Page
 Use the Home Page to navigate through the available SF modules
-Home Page_Production Orders
-Home Page_non-conformance Production
+usage_Production Orders
+usage_non-conformance Production
    api
