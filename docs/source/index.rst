@@ -8,9 +8,10 @@ Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for f
 
    This documentation is confidential to Shopfloor manufacturers using the **MES** application.
 
+Contents
+--------
+
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
 
    usage
    api
