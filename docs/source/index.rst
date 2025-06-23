@@ -6,15 +6,15 @@ Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for f
 
 .. note:
 
-   MES Documentation is only targeted to Shopfloor manufacturers
+   This documentation is confidential to Shopfloor manufacturers using the **MES** application.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-**MES** uses precise modules that are used in **SF** operations.
+   Home Page
+Use the Home Page to navigate through the available SF modules
 usage_Production Orders
 usage_non-conformance Production
    api
