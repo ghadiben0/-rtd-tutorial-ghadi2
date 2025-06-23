@@ -1,5 +1,8 @@
-.raised ethical-rtd ethical-dark-theme loaded,
-.raised ethical-rtd ethical-dark-theme loaded * {
+/* Hide entire EthicalAds block */
+.ethical-rtd,
+.ethical-content,
+.ethical-rtd *,
+.ethical-content * {
     display: none !important;
     visibility: hidden !important;
     height: 0 !important;
@@ -8,7 +11,4 @@
     margin: 0 !important;
     padding: 0 !important;
     border: none !important;
-}
-iframe[src*="ads"] {
-    display: none !important;
 }
