@@ -3,7 +3,6 @@ Welcome to our Manufacturing Execution Help Hub!
 ===================================
 
 **MES** is a Manufacturing Execution System integrated with Infor <LN> ERP system that helps **Shop floor** operators streamline their operational flows and fastens real-time  production execution. 
-Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for further MES information.
 
 .. note::
 
