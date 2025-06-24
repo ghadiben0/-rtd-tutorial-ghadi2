@@ -6,7 +6,8 @@ Welcome to our Manufacturing Execution Help Hub!
 
 .. note::
 
-   The **MES** application aligns with **ISA-95** principles, thus ensuring operations execution efficiency, instant traceability, optimlized managerial **Shop Floor** decisions accross different departments.
+   The **MES** application aligns with **ISA-95** principles, thus ensuring operations execution efficiency, instant traceability, optimized managerial **Shop Floor** decisions accross departments.
+
    The **MES** application is managed by the <Admin>.
 
 MES Capabilities Diagram
