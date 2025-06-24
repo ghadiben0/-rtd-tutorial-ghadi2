@@ -8,7 +8,7 @@ The MES-LN integration enables real-time visibility, data collection, and contro
 
 **MES** is controlled and managed by three roles. Make sure to read below *MES-Roles Definition** before proceeding with the next topics.
 
-      **MES-Roles Definition**
+**MES-Roles Definition**
 ===================================
 
 **<MES-Admin>**
