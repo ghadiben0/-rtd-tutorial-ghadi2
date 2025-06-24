@@ -8,7 +8,6 @@ Use the Login to sign into your **MES** system.
 
    For further access support and in case of login issues, please contact your <Admin> if you need further access support.
 
-
 **FIELDS DEFINITION**
 ------------
 
