@@ -8,7 +8,7 @@ Check out <https://en.wikipedia.org/wiki/Manufacturing_execution_system>_  for f
 .. note::
 
    The **MES** application aligns with **ISA-95** principles, thus ensuring operations execution efficiency, instant traceability, optimlized managerial **Shop Floor** decisions accross different departments.
-   The **MES**application is managed by the <Admin>.
+   The **MES** application is managed by the <Admin>.
    .See. Roles Definition table. 
 
 --------
