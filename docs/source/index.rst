@@ -22,7 +22,6 @@ MES Capabilities Diagram
    :width: 500px
    :align: center
 
-
 --------
 
 .. toctree::
