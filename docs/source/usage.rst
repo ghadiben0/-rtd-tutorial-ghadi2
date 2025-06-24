@@ -22,3 +22,7 @@ Click on **Forgot Password** to reset the password.
 
 Once clicking, you are redirected to the **Forgot Password** interface.
 
+.. toctree::
+   :maxdepth: 1
+
+   forgot_password 
