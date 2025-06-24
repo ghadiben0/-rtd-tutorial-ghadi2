@@ -27,6 +27,6 @@ MES Capabilities Diagram
 .. toctree::
 
    usage
-   naviagtion   
+   navigation   
    features
    api
