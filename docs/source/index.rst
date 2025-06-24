@@ -15,7 +15,7 @@ MES Capabilities Diagram
 
 .. image:: _static/MES_Capabilities.png
    :alt: MES Capabilities Diagram
-   :width: 600px
+   :width: 300px
    :align: center
 
    .See. Roles Definition table. 
