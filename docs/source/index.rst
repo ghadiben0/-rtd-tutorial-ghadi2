@@ -12,7 +12,7 @@ Welcome to our Manufacturing Execution Help Hub!
 MES Capabilities Diagram
 =========================
 
-.. image:: _static/MES_Capabilities.png
+.. image:: _static/custom.css/MES_Capabilities.png
    :alt: MES Capabilities Diagram
    :width: 600px
    :align: center
