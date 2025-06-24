@@ -7,7 +7,7 @@ This documentation provides comprehensive guidance and step-by-step instructions
 The MES-LN integration enables real-time visibility, data collection, and control across manufacturing operations, ensuring that production execution is aligned with enterprise-level production planning and production control. 
 
 In an **MES** system, <MES-Admin> (or MES Administrator) is responsible for configuring, managing, and overseeing the operation of the entire MES environment. This role acts as a bridge between IT, business processes, and shop floor operators.
-To learn more about MES-roles responsibility view :`full roles documentation <roles>`²
+Read the :doc:`MES Roles <roles>` for more information.
 
 .. note::
 
@@ -24,6 +24,8 @@ MES Capabilities Diagram
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
    usage
    navigation   
