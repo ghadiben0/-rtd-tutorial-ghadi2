@@ -6,7 +6,8 @@ This documentation provides comprehensive guidance and step-by-step instructions
 
 The MES-LN integration enables real-time visibility, data collection, and control across manufacturing operations, ensuring that production execution is aligned with enterprise-level production planning and production control. 
 
-**MES** is controlled and managed by three roles. Make sure to read below *MES-Roles Definition** before proceeding with the next topics.
+**MES** is controlled and managed by three roles. Make sure to read  *MES-Roles**
+*Click [here](roles.html) to view the full roles documentation.*.
 
 .. note::
 
