@@ -15,4 +15,4 @@ Once clicking, you are redirected to the :doc:`Login Credentials <usage>` interf
 
 .. raw:: html
 
-   <a href="usage.html#usage-section" style="display:inline-block; padding:10px 16px; background-color:#007BFF; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">⬅ Back to Usage</a>
+   <a href="usage.html#usage-section" style="display:inline-block; padding:10px 16px; background-color:#007BFF; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">⬅ Back </a>
