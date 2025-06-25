@@ -27,3 +27,5 @@ Messages
 Internal message center.
 
 MES Modules
+--------
+See :doc:`Key Fatures <features>` .
