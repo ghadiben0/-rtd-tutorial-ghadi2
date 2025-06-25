@@ -21,7 +21,7 @@ MES Capabilities Diagram
    :align: center
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :titlesonly:
    :caption: Contents
 
