@@ -1,12 +1,10 @@
 Login Credentials
 =====
-Use the Login to sign into your **MES** system.
+Use the Login to connect to the <**MES**> system.
 
 .. note::
 
-   Make sure to enter the correct provided credentials. 
-
-   For further access support and in case of login issues, please contact your <Admin> if you need further access support.
+   please contact your <Admin> if you need further access support.
 
 **FIELDS DEFINITION**
 
@@ -14,15 +12,14 @@ Use the Login to sign into your **MES** system.
 
 **Password**: the provided user password.
 
-Click on **Login** th log into **MES**
+Click on **Login**.
 
-Once clicking, you are redirected to the main dashboard.
+Once clicking, you are redirected to the **Home Page**
 
-Click on **Forgot Password** to reset the password.
+See :doc: `**Home Page** <home>`.
+
+Click on **Forgot Password** to reset your password.
 
 Once clicking, you are redirected to the **Forgot Password** interface.
 
-.. toctree::
-   :maxdepth: 1
-
-   forgot_password 
+See :doc: `**Forgot Password** <passreset>`.
