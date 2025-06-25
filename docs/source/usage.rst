@@ -1,3 +1,4 @@
+.. _usage:
 Login Credentials
 =====
 Use the Login to connect to the <**MES**> system.
