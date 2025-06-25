@@ -22,5 +22,5 @@ Click on **Forgot Password** to reset your password.
 
 Once clicking, you are redirected to the **Forgot Password** interface.
 
-See :doc:`Reset Password <passreset>`.
+See :doc: `<passreset>`.
 
