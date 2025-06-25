@@ -24,7 +24,7 @@ MES Capabilities Diagram
 
 .. toctree::
    :maxdepth: 4
-   :caption: Welcome to our Manufacturing Execution documentation Hub !
+   :caption: Contents
 
    usage
    navigation   
