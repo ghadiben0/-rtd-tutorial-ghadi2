@@ -1,10 +1,6 @@
 **MES** Navigation
 ==================
 
-... toctree::
-   :maxdepth: 1
-   :hidden:
-
 Dashboard
 ---------
 
@@ -34,3 +30,6 @@ MES Modules
 --------
 See :doc:`Key Fatures <features>` .
 
+... toctree::
+   :maxdepth: 1
+   :hidden:
