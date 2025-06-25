@@ -11,5 +11,5 @@ Use **Reset Password** interface to change your account password.
 
 Click on **Save**.
 
-Once clicking, you are redirected to the :doc: `Login Credentials <usage> interface.
+Once clicking, you are redirected to the :doc:`Login Credentials <usage> interface.
 
