@@ -16,11 +16,11 @@ Click on **Login**.
 
 Once clicking, you are redirected to the **Home Page**
 
-See :doc: `<home>`.
+See :doc: `Home Page <home>` .
 
 Click on **Forgot Password** to reset your password.
 
 Once clicking, you are redirected to the **Forgot Password** interface.
 
-See :doc: `<passreset>`.
+See :doc:`Reset Password <passreset>` .
 
