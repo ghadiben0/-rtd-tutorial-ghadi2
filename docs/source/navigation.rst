@@ -1,6 +1,11 @@
 **MES** Navigation
 ==================
 
+.. toctree::
+   :maxdepth: 2
+   :caption: **MES Navigation**
+
+
 Dashboard
 ---------
 
