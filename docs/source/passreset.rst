@@ -13,6 +13,4 @@ Click on **Save**.
 
 Once clicking, you are redirected to the :doc:`Login Credentials <usage>` interface.
 
-.. raw:: html
-
- Return to :ref:`usage`
+:ref:`⬅ Back to Login Credentials <usage>`
