@@ -22,14 +22,12 @@ MES Capabilities Diagram
 
 .. toctree::
    :maxdepth: 2
-   :titlesonly:
    :caption: Contents
 
    usage
-   --------
+ 
    navigation   
-   --------
+ 
    features
-   --------
+
    api
-   --------
