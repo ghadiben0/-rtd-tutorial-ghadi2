@@ -30,6 +30,3 @@ MES Modules
 --------
 See :doc:`Key Fatures <features>` .
 
-.. toctree::
-   :maxdepth: 1
-   :hidden:
