@@ -1,4 +1,4 @@
-Welcome to the MES Help hub!
+Welcome to our Manufacturing Execution documentation Hub !
 ===================================
 
 This documentation provides comprehensive guidance and step-by-step instructions on how to use the Manufacturing Execution System <**MES**> integrated with Infor <**LN**>. Whether you are <MES-Operator> on the shop floor, <MES-Supervisor>, or <MES-Administrator>, this guide is designed to help you understand and efficiently use the <**MES**> system in connection with <**LN**> ERP.
