@@ -35,5 +35,9 @@ html_show_sourcelink = False # This removes the "View page source" link
 html_static_path = ['_static']
 html_css_files = ['custom.css']
 
+html_theme_options = {
+    "show_toc_level": 2,  # or higher depending on your needs
+}
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
