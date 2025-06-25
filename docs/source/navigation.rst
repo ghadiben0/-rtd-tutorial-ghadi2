@@ -31,5 +31,5 @@ MES Modules
 See :doc:`Key Fatures <features>` .
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
+   :maxdepth: 4
+
