@@ -28,6 +28,10 @@ MES Capabilities Diagram
    :caption: Contents
 
    usage
+   --------
    navigation   
+   --------
    features
+   --------
    api
+   --------
