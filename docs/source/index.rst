@@ -1,17 +1,15 @@
 MES documnentation hub
 ========================
 
-:doc:`What is MES? <what_is_mes>`
-
 .. toctree::
    :maxdepth: 2
    :caption: Welcome to MES documentation !
    :titlesonly:
 
-   usage
-   navigation
-   features
-   api
+   mes
+   users
+   messystem
+   mesfunction
 
 .. toctree::
    :caption: To Know ! 
