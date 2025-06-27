@@ -2,7 +2,7 @@ Introduction
 ============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    doc_intro
    doc_audience
