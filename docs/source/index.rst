@@ -22,10 +22,9 @@ MES Capabilities Diagram
 
 .. toctree::
    :caption: Getting Started
-   :maxdepth: 3
+   :maxdepth: 2
 
    documentation_info
-   introduction
    doc_intro
    doc_audience
    doc_purpose
