@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'MES DOC HUB'
+copyright = '2025, Powered by Karim Atigiu & Ghada Ben Nasser'
+author = 'Ghada Ben Nasser'
 
 release = '0.1'
 version = '0.1.0'
