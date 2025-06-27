@@ -32,3 +32,9 @@ MES Capabilities Diagram
    features
 
    api
+
+.. toctree::
+   :caption: Documentation Info
+   :maxdepth: 2
+
+   documentation_info
