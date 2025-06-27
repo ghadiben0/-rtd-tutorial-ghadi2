@@ -25,6 +25,7 @@ MES Capabilities Diagram
    :maxdepth: 2
 
    documentation_info
+   introduction
 
 .. toctree::
    :maxdepth: 2
