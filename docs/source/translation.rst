@@ -5,7 +5,7 @@ Currently **MES** Documentation only supports the **English** language as a firs
 
 .. note::
 
-   To requst document multilanguage please contact the technical writer **MES** system manager via this mail messervices@mes.com
+   To request document multilanguage please raise your request via this mail messervices@mes.com
 
 
 
