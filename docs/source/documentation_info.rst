@@ -1,8 +1,3 @@
-Introduction
-==================
-
-This section provides general documentation guidelines.
-
 Documentation Version&Release
 ==================
 
