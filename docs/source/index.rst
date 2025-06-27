@@ -24,14 +24,15 @@ MES Capabilities Diagram
    :caption: Getting Started
    :maxdepth: 2
 
-   getting_started
+   documentation_info
 
 .. toctree::
-   :caption: Contents
    :maxdepth: 2
+   :caption: Contents
+   :titlesonly:
 
-   login_credentials
-   mes_navigation
-   mes_key_features
+   usage
+   navigation
+   features
    api
  
