@@ -25,9 +25,8 @@ MES Capabilities Diagram
    :maxdepth: 2
 
    documentation_info
-   doc_intro
-   doc_audience
-   doc_purpose
+
+   introduction
 
 .. toctree::
    :maxdepth: 2
