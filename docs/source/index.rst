@@ -25,6 +25,7 @@ MES Capabilities Diagram
    :maxdepth: 2
 
    doc
+   translation
    introduction
 
 .. toctree::
