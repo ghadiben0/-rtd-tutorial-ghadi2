@@ -5,6 +5,7 @@ The **MES** system serves as a smart layer between **Shop Floor** users and the 
 
 Users begin by accessing the **MES** platform with credentials provided by the system administrator. These credentials are tied to specific user roles.
 
-please use this link to read **MES** roles. 
+See :doc:`Reset Password <roles>` .
+
 
 
