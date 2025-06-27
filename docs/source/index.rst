@@ -42,3 +42,10 @@ MES Capabilities Diagram
 
    login_credentials
    admin_control_system_users
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Shop Floor Operations: MES-Operator
+
+   shop_floor_operations
+
