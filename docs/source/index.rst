@@ -34,12 +34,8 @@ MES Capabilities Diagram
    api
 
 .. toctree::
-   :caption: Documentation Info
+   :caption: Getting Started 
    :maxdepth: 2
 
-   Introduction
-
-   Documentation Version&Release
-
-   Documentation Translation: localization/Internationalization
-
+   documentation_info
+ 
