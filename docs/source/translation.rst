@@ -1,7 +1,7 @@
 Localization/Intrenationalization  
 ============
 
-Currently **MES** Documentation onlysupports the **English** language as a first document language for target **MES** readers.
+Currently **MES** Documentation only supports the **English** language as a first document language for target **MES** readers.
 
 .. note::
 
