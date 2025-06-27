@@ -37,4 +37,9 @@ MES Capabilities Diagram
    :caption: Documentation Info
    :maxdepth: 2
 
-  
+   Introduction
+
+   Documentation Version&Release
+
+   Documentation Translation: localization/Internationalization
+
