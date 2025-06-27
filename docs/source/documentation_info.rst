@@ -1,4 +1,4 @@
-Documentation Info
+Getting Started 
 ==================
 
 Introduction
