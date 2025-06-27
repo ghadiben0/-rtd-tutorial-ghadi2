@@ -21,14 +21,6 @@ MES Capabilities Diagram
    :align: center
 
 .. toctree::
-   :caption: Getting Started
-   :maxdepth: 2
-
-   doc
-   translation
-   introduction
-
-.. toctree::
    :maxdepth: 2
    :caption: Welcome to MES documentation !
    :titlesonly:
@@ -37,6 +29,14 @@ MES Capabilities Diagram
    navigation
    features
    api
+
+.. toctree::
+   :caption: To Know ! 
+   :maxdepth: 2
+
+   doc
+   translation
+   introduction
 
 .. toctree::
    :caption: MES Setup and Configuration
