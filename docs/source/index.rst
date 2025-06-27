@@ -35,4 +35,10 @@ MES Capabilities Diagram
    navigation
    features
    api
- 
+
+.. toctree::
+   :caption: MES Setup and Configuration
+   :maxdepth: 2
+
+   login_credentials
+   admin_control_system_users
