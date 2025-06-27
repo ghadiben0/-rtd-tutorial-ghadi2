@@ -24,8 +24,6 @@ MES Capabilities Diagram
    :caption: Getting Started
    :maxdepth: 2
 
-   documentation_info
-
    introduction
 
 .. toctree::
