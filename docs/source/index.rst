@@ -1,7 +1,7 @@
 MES documnentation hub
 ========================
 
-: :doc:`What is MES? <what_is_mes>`
+:doc:`What is MES? <what_is_mes>`
 
 .. toctree::
    :maxdepth: 2
