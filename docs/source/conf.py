@@ -7,7 +7,7 @@ copyright = '2025, Powered by Karim Atigi & Ghada Ben Nasser'
 author = 'Ghada Ben Nasser'
 
 release = '0.1'
-version = '0.1.0'
+version = 'Release Version 0.1.0'
 
 # -- General configuration
 
