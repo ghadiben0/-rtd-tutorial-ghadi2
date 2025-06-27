@@ -28,7 +28,7 @@ MES documnentation hub
 
 .. toctree::
    :maxdepth: 2
-   :caption: Shop Floor Operations: MES-Operator
+   :caption: Roles based Operations
 
    shop_floor_operations
 
