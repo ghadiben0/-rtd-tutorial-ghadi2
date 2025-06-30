@@ -4,9 +4,9 @@ The system is oriented to business companies working on **Shop Floor** operation
 
 End-users or **MES** users are targeted to use **MES**. 
 
-:ref:`MES Supervisor Guide <mes-admins>`
+:ref:`MES Admins Guide <mes-admins>`
 
 :ref:`MES Supervisor Guide <mes-supervisors>`
 
-:ref:`MES Supervisor Guide <mes-operators>`
+:ref:`MES Operators Guide <mes-operators>`
 
