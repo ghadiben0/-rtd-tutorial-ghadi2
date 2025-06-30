@@ -1,5 +1,4 @@
 Dispatch List
-
 ========================
 
 Use **Dispatch List** to review all **LN** Orders.
@@ -23,11 +22,11 @@ Fields Definitons
 
     Status: LN Production Order Status.
 
-Values
+Status Values
 ---------------
 
-**Ready to Start**
+    **Ready to Start**
 
-**Active**
+    **Active**
 
-**Started**
+    **Started**
