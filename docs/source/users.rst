@@ -4,13 +4,13 @@ The system is oriented to business companies working on **Shop Floor** operation
 
 End-users or **MES** users are targeted to use **MES**. 
 
-*MES-Admins
---------------
+* MES-Admins
+  --------------
 
-*MES-Supervisors
------------------
+* MES-Supervisors
+  -----------------
 
-*MES-Operators
----------------
+* MES-Operators
+  ---------------
 
 See :doc:`MES-Roles <roles>`.
