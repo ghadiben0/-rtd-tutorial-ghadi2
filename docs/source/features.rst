@@ -1,24 +1,24 @@
 **MES** Key Features
 ==========
 
-This section explains MES navigation to the main interfaces that excutes operational flows.
+Use **MES** Key Features section to review the available **Sho Floor** modules to excutes operational flows by **MES-Operators**/ **MES-Supervisors**.
 
-    Manufacturing:
+    **Manufacturing:**
+   
+      **Dispatsh List**
 
-      Dispatsh List
+      **Active List**  
 
-      Active List  
+      **Operation Execution:**
 
-      Operation Execution
+    **Quality:**
 
-    Quality
+      **No-Conformances List**
 
-      No-Conformances List
+      **Raise Non-Conformance**
 
-      Raise Non-Conformance
+    **Warehousing**
 
-    Warehousing
+      **Inventory 360**
 
-      Inventory 360
-
-      Warehouse
+      **Warehouse**
