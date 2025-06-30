@@ -23,6 +23,7 @@ MES documnentation hub
    :caption: MES Setup and Configuration
    :maxdepth: 2
 
+   systemconfig
    login_credentials
    admin_control_system_users
 
