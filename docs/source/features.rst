@@ -5,7 +5,7 @@ Use **MES** Key Features section to review the available **Sho Floor** modules t
 
     **Manufacturing:**
    
-      :ref:`dispatch-list`.
+      :doc:`Dispatch List <dispatchlist>`.
 
       **Active List**  
 
