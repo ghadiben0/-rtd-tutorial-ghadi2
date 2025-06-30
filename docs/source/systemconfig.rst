@@ -1,2 +1,2 @@
-System Congiguration
+System Configuration
 ========================
