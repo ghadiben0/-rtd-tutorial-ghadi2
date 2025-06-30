@@ -4,13 +4,7 @@ The system is oriented to business companies working on **Shop Floor** operation
 
 End-users or **MES** users are targeted to use **MES**. 
 
-.. image:: https://img.shields.io/badge/MES--Supervisors-Blue-blue
-   :alt: MES-Supervisors
+:ref:`MES Supervisor Guide <mes-supervisors>`
 
-* MES-Supervisors
-  -----------------
 
-* MES-Operators
-  ---------------
-
-See :doc:`MES-Roles <roles>`.
+See :ref:`MES-Roles <roles>`.
