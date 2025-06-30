@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'hoverxref.extension'
 ]
 
 intersphinx_mapping = {
@@ -43,4 +44,6 @@ html_theme_options = {
 epub_show_urls = 'footnote'
 
 templates_path = ['_templates']
+
+hoverxref_auto_ref = True 
 
