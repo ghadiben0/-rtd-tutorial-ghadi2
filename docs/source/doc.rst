@@ -1,11 +1,11 @@
 Documentation Version & Release 
 ============
 
-**MES** document is controlled by versions.
+**MES** document is controlled by  an identified **Version** number.
 
-The initial **Document Version** is **0.1.0**.
+The document publishment is based on a **Release** number or a **Release Version**.
 
-The **Document Version** changes when there are documentation updates, changes, or additional information, to the added features or functionalities in the **MES** system.
+The document **Releas Version** changes when there are documentation updates, changes, or additional information added to the **MES** system.
 
-Each update is followed by a release number that you can directly find it on the left sidebar menu of our **MES** documentation hub.
+The document **Version Release** is displayed on the header sidebar menu of the document.
 
