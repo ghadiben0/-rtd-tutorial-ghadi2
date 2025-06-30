@@ -13,3 +13,16 @@
     border: none !important;
 }
 
+/* Remove EthicalAds banner and label */
+div.ethical-rtd, 
+div[aria-label="advertisement"],
+#ad-footer,
+.ethical-sidebar,
+footer .ethical-footer,
+div[data-ea-publisher] {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
