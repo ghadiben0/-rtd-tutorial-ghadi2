@@ -25,6 +25,7 @@ MES documnentation hub
 
    systemconfig
    login_credentials
+   navigation
    admin_control_system_users
 
 .. toctree::
