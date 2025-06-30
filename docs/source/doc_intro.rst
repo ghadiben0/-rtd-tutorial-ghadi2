@@ -11,7 +11,5 @@ in the case of brief quotations embodied in critical reviews and certain other n
 
 **Acknowledgment**
 
-This system and its documentation were developed with the contribution of internal teams, partners, and integration specialists. Special thanks to the implementation team for ensuring compatibility with Infor **LN** and 
-
-providing detailed business process insights.
+This system and its documentation were developed with the contribution of internal teams, partners, and integration specialists.
 
