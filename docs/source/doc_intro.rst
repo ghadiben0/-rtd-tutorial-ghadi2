@@ -1,15 +1,17 @@
-System usage 
+Document Copywrite & Acknowledgment  
 =====================
 
-This documentation provides a comprehensive guide with step-by-step instructions on how to use the **Manufacturing Execution System**, in a short form, **MES** integrated with Infor **LN**. Whether you are an <**MES-Operator**> on the **Shop Floor**, <**MES-Supervisor**>, or <**MES-Administrator**>, this guide is created to help you understand and efficiently use the **MES** system in connection with **LN** ERP system.
+**© 2025** [Manufacturing Execution System]. All rights reserved.
 
-The **MES-LN** integration enables real-time visibility, data collection, and control across manufacturing operations, ensuring that production execution is aligned with enterprise-level production planning and production control. 
+This documentation is provided as part of the **Shop Floor* **MES** system that is intended for loggded in MES-Users involved in manufacturing operations and system integration.
 
-In an **MES** system,  users can access the system based on the provided role and defined permission.
+No part of this document may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission except 
 
-For more roles information read the :doc:`MES Roles <roles>`.
+in the case of brief quotations embodied in critical reviews and certain other non-commercial uses permitted by copyright law.
 
-.. note::
+**Acknowledgment**
 
-   **MES** application aligns with **ISA-95** principles, thus ensuring operations execution efficiency, instant traceability, optimized managerial **Shop Floor** decisions accross departments.
+This system and its documentation were developed with the contribution of internal teams, partners, and integration specialists. Special thanks to the implementation team for ensuring compatibility with Infor **LN** and 
+
+providing detailed business process insights.
 
