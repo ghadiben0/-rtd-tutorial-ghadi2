@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'MES DOC HUB'
+project = 'Welcome to MES Doc hub!'
 copyright = '2025, Powered by Karim Atigi & Ghada Ben Nasser'
 author = 'Ghada Ben Nasser'
 
