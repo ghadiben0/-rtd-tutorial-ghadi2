@@ -1,5 +1,7 @@
 .. _dispatch-list:
 
+Dispatch List
+
 ========================
 
 Use **Dispatch List** to review all **LN** Orders.
