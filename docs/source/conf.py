@@ -44,4 +44,5 @@ epub_show_urls = 'footnote'
 
 templates_path = ['_templates']
 
+hoverxref_auto_ref = True
 
