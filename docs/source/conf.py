@@ -18,8 +18,9 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     extensions += ['hoverxref.extension']
-hoverxref_auto_ref = True
 ]
+
+hoverxref_auto_ref = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
