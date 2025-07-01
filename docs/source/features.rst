@@ -5,8 +5,6 @@ Use **MES** Key Features section to review the available **Sho Floor** modules t
 
     **Manufacturing:**
 
-:ref:`dispatsh-list`
-
       **Active List**  
 
       **Operation Execution:**
