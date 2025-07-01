@@ -17,7 +17,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    extensions += ['hoverxref.extension']
 ]
 
 intersphinx_mapping = {
