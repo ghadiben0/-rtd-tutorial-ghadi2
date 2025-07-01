@@ -1,5 +1,3 @@
-.. _dispatsh-list:
-
 Dispatch List
 ========================
 
