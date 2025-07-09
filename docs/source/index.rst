@@ -12,7 +12,7 @@ MES documnentation hub
    mesfunction
 
 .. toctree::
-   :caption: To Know ! 
+   :caption: Hosting Documentation
    :maxdepth: 2
 
    doc
@@ -20,7 +20,7 @@ MES documnentation hub
    introduction
 
 .. toctree::
-   :caption: MES Setup and Configuration
+   :caption: Projct Setup and Configuration
    :maxdepth: 2
 
    systemconfig
