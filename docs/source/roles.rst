@@ -70,4 +70,14 @@ Administrators has full control over the **MES** system
 
 * Release Non-Conformance report.
 
-← **:ref:`Who are MES users <mes-users>`**
+
++---------+------------------------------------------------------+
+| Role    | Description                                          |
++=========+======================================================+
+| Admin   | Full access, manages users and system settings.      |
++---------+------------------------------------------------------+
+| Editor  | Creates and edits content, no system settings access.|
++---------+------------------------------------------------------+
+| Viewer  | Read-only access to reports and dashboards.          |
++---------+------------------------------------------------------+
+
