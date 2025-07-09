@@ -70,4 +70,4 @@ Administrators has full control over the **MES** system
 
 * Release Non-Conformance report.
 
-:ref:`🔙 **Back to "Who are MES users"** <mes-users>`
+**← :ref:`<mes-users>`**
