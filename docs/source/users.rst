@@ -1,10 +1,22 @@
 .. _mes-users:
 
-Who are **MES** users?
+MES Users
 =========================
-The system is oriented to business companies working on **Shop Floor** operations in integration with Infor **LN** ERP
 
-End-users or **MES** users are targeted to use **MES**. 
+The system is oriented to **Shop Floor** operators under the following roles: 
+
+
++---------+----------------------------------------------------------+
+| Role    | Description                                              |
++=========+==========================================================+
+| Admin   | Full access, manages users and system settings.          |
++---------+----------------------------------------------------------+
+| Superviosr  | Creates and edits content, no system settings access.|
++---------+----------------------------------------------------------+
+| Operator  | Read-only access to reports and dashboards.            |
++---------+----------------------------------------------------------+
+
+
 
 :ref:`MES Admins Guide <mes-admins>`
 
