@@ -3,7 +3,7 @@ MES documnentation hub
 
 .. toctree::
    :maxdepth: 2
-   :caption: Welcome to MES documentation !
+   :caption: Getting Started
    :titlesonly:
 
    mes
